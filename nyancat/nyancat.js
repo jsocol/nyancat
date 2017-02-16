@@ -74,7 +74,7 @@ Nyancat.prototype.run = function () {
   }
   this.frame++; this.frame = this.frame % frames.length;
   this.last = 0;
-  setTimeout(this.run.bind(this), 100);
+  setTimeout(this.run.bind(this), 160);
 };
 
 if (require.main === module) {
