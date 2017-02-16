@@ -1,0 +1,22 @@
+{
+  "name": "nyancat.pyjs",
+  "version": "0.1.0",
+  "description": "a port of python's nyancat by taizilongxu",
+  "main": "nyancat/nyancat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nyancat": "nyancat/nyancat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsocol/nyancat.pyjs.git"
+  },
+  "author": "James Socol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsocol/nyancat.pyjs/issues"
+  },
+  "homepage": "https://github.com/jsocol/nyancat.pyjs#readme"
+}
