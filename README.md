@@ -2,7 +2,7 @@
 
 ![nyancat](nyancat.gif)
 
-from here: https://github.com/klange/nyancat
+from here: https://github.com/taizilongxu/nyancat
 
 ## Usage
 
