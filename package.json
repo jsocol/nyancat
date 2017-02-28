@@ -1,5 +1,5 @@
 {
-  "name": "nyancat.pyjs",
+  "name": "nyancat.py.js",
   "version": "0.1.0",
   "description": "a port of python's nyancat by taizilongxu",
   "main": "nyancat/nyancat.js",
