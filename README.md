@@ -7,14 +7,14 @@ from here: https://github.com/klange/nyancat
 ## Usage
 
 ```
-$ sudo pip install nyancat
+$ npm install -g nyancat.py.js
 $ nyancat
 ```
 
 or
 
-```python
-import nyancat
-cat = nyancat.Nyancat()
+```js
+const nyancat = require('nyancat.py.js');
+cat = new nyancat.Nyancat()
 cat.run()
 ```
